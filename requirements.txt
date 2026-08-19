@@ -1,0 +1,38 @@
+# Multi-Agent Data Analyst - Requirements
+# ========================================
+
+# Groq SDK (FREE AI API)
+groq>=0.37.0
+langchain-groq>=1.0.0
+
+# LangChain (for advanced chains if needed)
+langchain>=0.1.0
+langchain-core>=0.1.0
+
+# Data processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualizations
+plotly>=5.18.0
+
+# Web UI
+streamlit>=1.31.0
+
+# Environment variables
+python-dotenv>=1.0.0
+
+# Database
+sqlalchemy>=2.0.0
+
+# Excel support
+openpyxl>=3.1.0
+
+# Gemini AI (Query Lab — SQL & DAX optimizer)
+google-generativeai>=0.8.0
+
+# Statistics
+scipy>=1.11.0
+
+# Install command:
+# pip install -r requirements.txt
