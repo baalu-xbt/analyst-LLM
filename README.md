@@ -271,7 +271,7 @@ Acts as the final quality-control layer.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/baalu-avr/analyst-LLM.git
+git clone https://github.com/baalu-xbt/analyst-LLM.git
 cd analyst-LLM
 ```
 
@@ -445,6 +445,4 @@ This project is intended for educational, experimental, and portfolio purposes.
 
 An interactive multi-agent AI platform for automated data analysis, visualization, reporting, and analytical quality validation.
 
----
 
-**Last Updated:** 2026-08-18
